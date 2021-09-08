@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Naruto Uzumaki",
+        "ninja-way": "Sage of Nine Tails",
+        "speech": "",
+        "img": ""
+    },
+    {
+        "name": "Kakashi Hataka",
+        "ninja-way": "Copy Ninja/",
+        "speech": "",
+        "img": ""
+    },
+    {
+        "name": "Might Guy",
+        "ninja-way": "Green Beast",
+        "speech": "",
+        "img": ""
+    },
+    {
+        "name": "Jiraiya",
+        "ninja-way": "Toad Sage",
+        "speech": "",
+        "img": ""
+    },
+    {
+        "name": "Tsunade",
+        "ninja-way": "Slug Princess",
+        "speech": "",
+        "img": ""
+    },
+    {
+        "name": "Orochimaru",
+        "ninja-way": "Snake Master",
+        "speech": "",
+        "img": ""
+    },
+    {
+        "name": "Madara Uchiha",
+        "ninja-way": "Madara of the Flame",
+        "speech": "",
+        "img": ""
+    },
+    {
+        "name": "Minato Namikaze",
+        "ninja-way": "Yellow Flash",
+        "speech": "",
+        "img": ""
+    }
+]
